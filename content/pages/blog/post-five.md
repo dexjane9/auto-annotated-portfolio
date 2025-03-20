@@ -39,7 +39,7 @@ bottomSections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
+        - name: OLUWADETAN
           label: ''
           hideLabel: true
           placeholder: First Name
