@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
+  url: /images/WhatsApp Image 2025-03-09 at 1.18.48 PM.jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
