@@ -54,7 +54,7 @@ bottomSections:
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: Oyedeleoluwadetan@gmail.com
           hideLabel: true
           placeholder: Email
           isRequired: true
